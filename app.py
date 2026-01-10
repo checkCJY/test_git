@@ -7,3 +7,15 @@ st.write("폴더 생성 → uv 환경 세팅 → 실행 성공까지 완료!")
 
 st.write("테스트")
 st.write("테스트23")
+
+st.write("테스트")
+st.write("테스트23")
+
+st.write("테스트")
+st.write("테스트23")
+
+st.write("테스트")
+st.write("테스트23")
+
+st.write("테스트")
+st.write("테스트23")
