@@ -5,3 +5,8 @@ st.title("🏙️ Streamlit Day10 시작")
 st.write("폴더 생성 → uv 환경 세팅 → 실행 성공까지 완료!")
 
 st.write("코드를 수정하였습니다.")
+st.write("코드를 수정하였습니다.")
+st.write("코드를 수정하였습니다.")
+st.write("코드를 수정하였습니다.")
+st.write("코드를 수정하였습니다.")
+st.write("코드를 수정하였습니다.")
