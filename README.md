@@ -41,4 +41,3 @@ graph TB
     
     UI -.->|9. 800ms 폴링<br/>GET /sentiment-result/| VIEWS
     VIEWS -.->|10. 결과 조회| REDIS
-
